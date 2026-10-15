@@ -51,7 +51,7 @@ Periksa kembali hasil staging sebelum membuat commit. Jangan memasukkan file rah
 
 ## 4. Membuat Commit
 
-Gunakan format Conventional Commits:
+Gunakan format [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/):
 
 ```text
 <tipe>: <deskripsi perubahan>
