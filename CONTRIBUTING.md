@@ -34,10 +34,10 @@ Kamu berpindah ke `main` lalu mengunduh perubahan terbaru dari GitHub. Selalu mu
 ### 2. Buat branch baru dari `main`
 
 ```bash
-git switch -b feat/halaman-profil
+git switch -c feat/halaman-profil
 ```
 
-`-b` artinya "buat branch baru lalu langsung pindah ke sana". Beri nama sesuai jenis pekerjaan:
+`-c` artinya "buat branch baru lalu langsung pindah ke sana". Beri nama sesuai jenis pekerjaan:
 
 | Awalan | Untuk | Contoh |
 | --- | --- | --- |
